@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_catalog/homepage.dart';
 
 void main() {
   runApp(MyApp());
@@ -9,14 +10,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Many times we want not to declare datatype before making a variable so we use "var"
+
     return MaterialApp(
-      home: Material(
-        child: Center(
-          child: Container(
-            child: Text("Welcome to flutter"),
-          ),
-        ),
-      ),
+      home: HomePage(), 
     );
-  }
+  } 
 }
