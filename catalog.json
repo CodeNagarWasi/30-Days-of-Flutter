@@ -1,0 +1,70 @@
+{
+    "products": [
+      {
+        "id": "Cata001",
+        "name": "IPhone 12 pro max",
+        "desc": "APPLE IPHONE 12 GENERATION ,",
+        "price": 999,
+        "color": "#33505a",
+        "image": "https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12-spring21_purple_04202021_big.jpg.large.jpg"
+      },
+      {
+        "id": "Cata002",
+        "name": "Pixel 5",
+        "desc": "Made by google , Totally certified",
+        "price": 999,
+        "color": "#00ac51",
+        "image": "https://m.media-amazon.com/images/I/81-fNmQqlLL._SL1500_.jpg"
+      },
+      {
+        "id": "Cata003",
+        "name": "M1 Macbook Air",
+        "desc": "Lighest macbook made by apple!",
+        "price": 999,
+        "color": "#e0bfae",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1633027804000"
+      },
+      {
+        "id": "Cata004",
+        "name": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "type": "hardcover"
+      },
+      {
+        "id": "Cata005",
+        "name": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "type": "hardcover"
+      },
+      {
+        "id": "Cata006",
+        "name": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "type": "hardcover"
+      },
+      {
+        "id": "Cata007",
+        "name": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "type": "hardcover"
+      },
+      {
+        "id": "Cata008",
+        "name": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "type": "hardcover"
+      },
+      {
+        "id": "Cata009",
+        "name": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "type": "hardcover"
+      },
+      {
+        "id": "Cata0010",
+        "name": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "type": "hardcover"
+      }
+    ]
+}
